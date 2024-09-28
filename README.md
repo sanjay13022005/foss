@@ -12,3 +12,5 @@
   "email":"hello@gmail.com",
   "password":"1234"
 }
+
+mongodb://127.0.0.1:27017/blog
